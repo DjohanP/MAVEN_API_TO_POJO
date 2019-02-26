@@ -21,7 +21,7 @@ import model.Spotify_list;
 public class ApiSpotify implements Interface_api{
 
 	URL url;
-	String token=" BQAYqWR3Rl_rZBeLPKxagzeHuOOmerchI0KlmghobHUGQrRNk8Zqna63rowO6_M-hskRJb1cVrFD3n-od3reLlGtcxJDP1ZpZ0oiKMt3zO7cXQUk9gf87sLhxlLTTl_PTeJ2Lyncxi7Pqn9_xywguvjZxoIF8e3Knw";
+	String token=" token spotify";
 	//https://developer.spotify.com/console/get-search-item/?q=Endank&type=&market=&limit=&offset=
 	public List<Interface_model> search(String query) {
 		// TODO Auto-generated method stub
